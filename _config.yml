@@ -11,4 +11,4 @@ github_username: viaod # DO NOT include the @ character, or else the build will 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 # page theme 
-theme: jekyll-theme-minimal
+theme: minima
