@@ -8,7 +8,7 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-![link to page](https://viaod.github.io/github-pages-with-jekyll/)
+[link to page](https://viaod.github.io/github-pages-with-jekyll/)
 
 I'll meet you over there, can't wait to get started!
 
