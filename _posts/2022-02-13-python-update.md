@@ -1,6 +1,6 @@
 ---
 title: "[Python] - Random Quote Bot"
-date: 2022-02-12
+date: 2022-02-13
 ---
 
 Today, I did the Introduction to Python by everydeveloper using the github learning lab!
