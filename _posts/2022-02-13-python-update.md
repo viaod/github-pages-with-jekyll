@@ -14,6 +14,7 @@ In the end, I am quite satisfied with how the project turned out, I learnt a lot
 the project further by asking for user input.
 
 In the end this is the code I produced: [link](https://github.com/viaod/python-random-quote/blob/master/get-quote.py)
+
 Not too shabby, I hope :) 
 
 I'm commiting to developing my portfolio now and exercising my passion for coding. 
