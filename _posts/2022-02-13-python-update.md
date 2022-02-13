@@ -1,5 +1,5 @@
 ---
-title: "Python Random Quote Bot"
+title: "[Python] - Random Quote Bot"
 date: 2022-02-12
 ---
 
