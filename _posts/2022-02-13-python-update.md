@@ -16,6 +16,5 @@ the project further by asking for user input.
 In the end this is the code I produced: [link](https://github.com/viaod/python-random-quote/blob/master/get-quote.py)
 Not too shabby, I hope :) 
 
-
 I'm commiting to developing my portfolio now and exercising my passion for coding. 
 So, I hope to find the time to use github more regularly and posting to hold myself accountable!
