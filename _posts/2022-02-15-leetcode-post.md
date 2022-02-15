@@ -1,7 +1,7 @@
 ---
 title: "[Java] - Using Leetcode for the first time"
 date: 2022-02-15
-----
+---
 
 Good evening, everyone!
 
@@ -21,18 +21,30 @@ I decided to attempt an easy question to ease myself into the LeetCode life and 
 
 The solution I came up with was a nested for loop, with a O(n^2) complexity. 
 
+
 class Solution {
+
     public int[] twoSum(int[] nums, int target) {
+    
         for (int i = 0; i < nums.length; i++ ){
+        
             for (int k = 0; k < nums.length; k++){
+            
                 if (nums[i] + nums[k] == target && i != k){
+                
                     return new int[] {i,k};
+                    
                 }
+                
             }
+            
         }
+        
         return new int[] {};
+        
     }
+    
 } 
 
-This is a sound solution, but in the future I may look at reducuing the time complexity for a more effieient solution.
 
+This is a sound solution, but in the future I may look at reducuing the time complexity for a more efficient solution.
